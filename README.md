@@ -175,6 +175,9 @@ _This section contains some rules to be followed while adding resources to this 
 ###### Tutorials/MOOCs/Lectures
 * [MATLAB Toolbox tutorials] (http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink] (http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+* [MATLAB Documentation] (https://www.mathworks.com/help/matlab/)
+  * MATLAB docs are very comprehensive and well written
+
 
 #### R (statistics)
 ###### Books
@@ -562,14 +565,23 @@ Qualifying examinations are a kind of certification to engineers - PE in USA, GA
 **Note: If you're from another country than USA or India, feel free to add a section relavant to your country's professional certification or equivalent examination. If you're not sure how to do that in Github, send me an [email](mailto:m2n037@gmail.com)**
 
 ### Mechanical Engineering & Related PE License for USA
+A PE license is probably the most useful certification that a mechanical engineer can obtain.  A PE license is only actually a requirement if you want to provide services directly to the public, but it is still a good thing to have regardless.  It is a sign to employers and clients that you are a competent engineer, and the act of studying for the exam will sharpen your skills.
+
 [Official Practice of Engineering(PE) License Examination Website](http://ncees.org/engineering/pe/)
+
+[NCEES Examinee Guide](http://ncees.org/exams/examinee-guide/)
 
 ###### Information about the Exam
 * [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
 
-###### Topper's Story or How to Prepare
-
 ###### ME PE specific Books
+
+* [Lindeburg, "Mechanical Engineering Reference Manual for the PE Exam"](https://www.amazon.com/Mechanical-Engineering-Reference-Manual-Exam/dp/1591264146/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=7defb8a434a541210f122c9306b2392d)
+* [Mechanical ME Practice Examination](https://www.amazon.com/Mechanical-PE-Practice-Examination-3rd/dp/1591264170/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=TZGSAJC0M4GVPQV089GD&linkCode=ll1&tag=mechanicalc-20&linkId=d42940ff0d1bdb59bc2ae2fdc98126a3)
+* [NCEES Mechanical PE Practice Exam](https://www.amazon.com/PE-Mechanical-Engineering-Materials-Practice/dp/1932613773/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=323726031869b0095d1a4641a056257a)
+
+
+###### Topper's Story or How to Prepare
 
 ###### ME PE specific Tutorials/MOOCs
 
